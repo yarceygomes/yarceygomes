@@ -1,0 +1,108 @@
+{
+  "municipio": "Monte Alegre/PA",
+  "coleta": "2026-11-20",
+  "fuso": "America/Sao_Paulo",
+  "portal_inicial": "https://camarademontealegre.pa.gov.br/portal-da-transparencia/",
+  "arquivos": [
+    {
+      "arquivo": "dados/materias-legislativas-exportacao.csv",
+      "url_origem": "https://www.portalcr2.com.br/materias-legislativas/materias-legislativas-cm-monte-alegre",
+      "coleta": "2026-11-20",
+      "sha256": "3e29afa596ec19d444e8e6e2232423a3cb22d412c4e2df58f1d8fcf058f10bd7",
+      "bytes": 46934,
+      "tipo": "exportacao original do portal"
+    },
+    {
+      "arquivo": "dados/contratos-exportacao.csv",
+      "url_origem": "https://www.portalcr2.com.br/contratos/contratos-cm-monte-alegre",
+      "coleta": "2026-11-20",
+      "sha256": "0b2641efa172b17d258a38c9bf53dc69a91498d91248c156e906d68d83c74eb9",
+      "bytes": 67451,
+      "tipo": "exportacao original do portal"
+    },
+    {
+      "arquivo": "dados/diarias-exportacao.csv",
+      "url_origem": "https://www.portalcr2.com.br/diarias/diarias-cm-monte-alegre",
+      "coleta": "2026-11-20",
+      "sha256": "80d1269fbbd7a455c6a8dd9d593f42a78a7490fcded3dadae4e0ed723058f1bf",
+      "bytes": 192607,
+      "tipo": "exportacao original do portal"
+    },
+    {
+      "arquivo": "documentos/Balancete_financeiro_junho_2026.pdf",
+      "url_origem": "https://4fdfdc7ecc7eac3fcdc8af2e4ed6ae07.cdn.bubble.io/f1785505205300x385698365179919940/BFINANCEIROJUNHO%20ASSINADO.pdf",
+      "coleta": "2026-11-20",
+      "sha256": "dc507c42ac9ed7dabf60ba4d2574bf2d3d1ab226f359df0f0e4878aee4b10584",
+      "bytes": 112131,
+      "tipo": "PDF original"
+    },
+    {
+      "arquivo": "documentos/Contrato_017_2026_caminhonete.pdf",
+      "url_origem": "https://4fdfdc7ecc7eac3fcdc8af2e4ed6ae07.cdn.bubble.io/f1789736397855x432366207542858000/CONTRATO%20MONTE%20ALEGRE-PA%20assinado.pdf",
+      "coleta": "2026-11-20",
+      "sha256": "2f2ba25128c80be01cd242fcb858c423f813bea48514834ee3a3b89e560204b9",
+      "bytes": 1074244,
+      "tipo": "PDF original"
+    },
+    {
+      "arquivo": "documentos/RELATORIO-DE-GESTAO-2021_ASS.pdf",
+      "url_origem": "https://camarademontealegre.pa.gov.br/wp-content/uploads/2025/11/RELATORIO-DE-GESTAO-2021_ASS.pdf",
+      "coleta": "2026-11-20",
+      "sha256": "79d4efcf37d088445512c2ec9adcefd6687cea2e55d788f6d0e06ee347fdb2f1",
+      "bytes": 266648,
+      "tipo": "PDF original"
+    },
+    {
+      "arquivo": "documentos/RELATORIO-DE-GESTAO-2022_ASS-1.pdf",
+      "url_origem": "https://camarademontealegre.pa.gov.br/wp-content/uploads/2025/09/RELATORIO-DE-GESTAO-2022_ASS-1.pdf",
+      "coleta": "2026-11-20",
+      "sha256": "dbbca4d0a4d0178457888950833e6554e5eefa32a536485f86eed1c221e64085",
+      "bytes": 266707,
+      "tipo": "PDF original"
+    },
+    {
+      "arquivo": "documentos/RELATORIO-DE-GESTAO-2023_ASS.pdf",
+      "url_origem": "https://camarademontealegre.pa.gov.br/wp-content/uploads/2025/08/RELATORIO-DE-GESTAO-2023_ASS.pdf",
+      "coleta": "2026-11-20",
+      "sha256": "cfc6c0576cf5b080c7f0d75a318fb10546115928e2ce6be9db594ac6c906ad6a",
+      "bytes": 267275,
+      "tipo": "PDF original"
+    },
+    {
+      "arquivo": "documentos/RELATORIO-DE-GESTAO-2024_ASS.pdf",
+      "url_origem": "https://camarademontealegre.pa.gov.br/wp-content/uploads/2025/09/RELATORIO-DE-GESTAO-2024_ASS.pdf",
+      "coleta": "2026-11-20",
+      "sha256": "686f5a69c11d22af77353cf2aed4dd9e7e4473f1b4d2db5ad0b787d607519b0e",
+      "bytes": 267352,
+      "tipo": "PDF original"
+    }
+  ],
+  "derivados": "Arquivos *-2026.csv são recortes da exportação; TXT de PDFs são extrações automáticas por pdftotext; README é análise documental inicial. Não há atualização automática.",
+  "referencias_adicionais": [
+    {
+      "tema": "PL 011/2026 - ficha",
+      "url": "https://www.portalcr2.com.br/detalhes-materias/cm-monte-alegre-projeto-de-lei-novembro-2026-1"
+    },
+    {
+      "tema": "Anexo da ficha do PL 011/2026 - link externo, não armazenado nesta pasta",
+      "url": "https://4fdfdc7ecc7eac3fcdc8af2e4ed6ae07.cdn.bubble.io/f1795015696413x576315737481032600/CamScanner%2017-11-2026%2009.31.pdf",
+      "bytes_original": 22942979
+    },
+    {
+      "tema": "Contrato 017/2026 - ficha",
+      "url": "https://www.portalcr2.com.br/detalhes-contratos/cm-monte-alegre-contrato-0172026-cm-monte-alegre"
+    },
+    {
+      "tema": "Relatórios de gestão 2021-2024",
+      "url": "https://camarademontealegre.pa.gov.br/portal-da-transparencia/relatorio-de-gestao/"
+    },
+    {
+      "tema": "Balancetes",
+      "url": "https://www.portalcr2.com.br/balancete-financeiro/balancete-cm-monte-alegre"
+    },
+    {
+      "tema": "Consulta de empenhos - acesso retornou 403 Forbidden",
+      "url": "https://www.governotransparente.com.br/acessoinfo/44809587/empenhoportipo"
+    }
+  ]
+}

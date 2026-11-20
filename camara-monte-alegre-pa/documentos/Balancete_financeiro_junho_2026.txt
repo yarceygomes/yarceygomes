@@ -1,0 +1,91 @@
+                                                                                    GOVERNO MUNICIPAL DE MONTE ALEGRE
+                                                                                           BALANÇO FINANCEIRO
+ EXERCÍCIO 2026                                                                              EM : 30/06/2026                                                                                   PÁGINA: 0001
+ Camara Municipal de Monte Alegre                                                                                                                                                          Valores em Reais
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 INGRESSOS                                           |                                        DISPÊNDIOS                                                 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                          ESPECIFICAÇÃO             |NOTAS| EXERCÍCIO ATUAL | EXERCÍCIO ANTERIOR |                             ESPECIFICAÇÃO               |NOTAS| EXERCÍCIO ATUAL | EXERCÍCIO ANTERIOR
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Receita orçamentária (I)                            |      |             0,00 |               0,00 |Despesa orçamentária (VII)                           |      |     3.657.093,82 |              0,00 |
+  Recursos Não Vinculados                           |      |             0,00 |               0,00 | Recursos Não Vinculados                             |      |     3.657.093,82 |              0,00 |
+    Recursos não vinculados de impostos             |      |             0,00 |               0,00 |    Recursos não vinculados de impostos              |      |     3.657.093,82 |              0,00 |
+Transferências financeiras recebidas (II)           |      |     3.834.692,26 |               0,00 |Transferências financeiras concedidas (VIII)         |      |             0,00 |              0,00 |
+  Transf. rec. para a execução orçamentária         |      |     3.834.692,26 |               0,00 | Transf. conc. para a execução orçamentária          |      |             0,00 |              0,00 |
+  Transf. financ. rec. independ. da exec. orçamentá |      |             0,00 |               0,00 | Transf. financ. conc. independ. da exec. orçament |        |             0,00 |              0,00 |
+  Transf. rec. para Aportes de recursos para RPPS |        |             0,00 |               0,00 | Transf. conc. para aportes de recursos para RPPS |         |             0,00 |              0,00 |
+  Transf. rec. para Aportes de recursos para RGPS |        |             0,00 |               0,00 | Transf. conc. para aportes de recursos para RGPS |         |             0,00 |              0,00 |
+  Transf. rec. para Aportes de recursos para sistem |      |             0,00 |               0,00 | Transf. conc. para aportes de recursos para siste |        |             0,00 |              0,00 |
+Outras Movimentações Financeiras (III)              |      |             0,00 |               0,00 |Outras Movimentações Financeiras (IX)                |      |             0,00 |              0,00 |
+  Resgates de Investimentos e Aplicações Temporária |      |             0,00 |               0,00 | Resgates de Investimentos e Aplicações Temporária |        |             0,00 |              0,00 |
+  Desbloqueios Judiciais de Valores em Caixa        |      |             0,00 |               0,00 | Desbloqueios Judiciais de Valores em Caixa          |      |             0,00 |              0,00 |
+Recebimentos extraorçamentários (IV)                |      |       718.025,18 |               0,00 |Pagamentos extraorçamentários (X)                    |      |       802.925,34 |              0,00 |
+  Inscrição de restos a pagar não processados       |      |             0,00 |               0,00 | Execução de restos a pagar não processados          |      |             0,00 |              0,00 |
+  Inscrição de restos a pagar processados           |      |        17.825,10 |               0,00 | Execução de restos a pagar processados              |      |             0,00 |              0,00 |
+  Depósitos restituíveis e valores vinculados       |      |       699.403,11 |               0,00 | Depósitos restituíveis e valores vinculados         |      |       662.631,04 |              0,00 |
+    Valores restituíveis                            |      |       699.403,11 |       1.333.449,94 |    Valores restituíveis                             |      |       662.631,04 |      1.324.532,17 |
+      PENSÃO ALIMENTÍCIA                            |      |        34.370,72 |          59.952,32 |      PENSÃO ALIMENTÍCIA                             |      |        34.370,72 |         59.952,32 |
+           026 - PENSÃO ALIMENTÍCIA-CMMA            |      |        34.370,72 |          59.952,32 |          026 - PENSÃO ALIMENTÍCIA-CMMA              |      |        34.370,72 |         59.952,32 |
+      RETENÇÕES - ENTIDADES REPRESENTATIVAS DE CLAS |      |           417,91 |             803,38 |      RETENÇÕES - ENTIDADES REPRESENTATIVAS DE CLAS |       |           275,10 |            803,38 |
+           028 - Contrib Sindical Servidores-CMMA |        |           417,91 |             803,38 |          028 - Contrib Sindical Servidores-CMMA     |      |           275,10 |            803,38 |
+      OUTROS CONSIGNATÁRIOS                         |      |             0,00 |              72,43 |      OUTROS CONSIGNATÁRIOS                          |      |             0,00 |              0,00 |
+           038 - FALTAS                             |      |             0,00 |              72,43 |          038 - FALTAS                               |      |             0,00 |              0,00 |
+      OUTROS VALORES RESTITUÍVEIS                   |      |             0,00 |           4.599,06 |      OUTROS VALORES RESTITUÍVEIS                    |      |             0,00 |              0,00 |
+           065 - DESC. ADIANT. 13º SALÁRIO          |      |             0,00 |           4.599,06 |          065 - DESC. ADIANT. 13º SALÁRIO            |      |             0,00 |              0,00 |
+      RPPS - RETENÇÕES SOBRE VENCIMENTOS E VANTAGEN |      |       154.969,68 |         300.198,96 |      RPPS - RETENÇÕES SOBRE VENCIMENTOS E VANTAGEN |       |       132.052,77 |        300.198,96 |
+           062 - INSS PREVIDENCIARIA OFICIAL FOLHA- |      |       108.084,17 |         249.396,68 |          062 - INSS PREVIDENCIARIA OFICIAL FOLHA-C |       |        85.167,26 |        249.396,68 |
+           006 - IPMMA-CMMA                         |      |        24.964,73 |          50.802,28 |          006 - IPMMA-CMMA                           |      |        24.964,73 |         50.802,28 |
+           020 - INSS-CMMA                          |      |        21.920,78 |               0,00 |          020 - INSS-CMMA                            |      |        21.920,78 |              0,00 |
+      IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF |       |       236.161,54 |         546.112,75 |      IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF |        |       236.161,54 |        541.895,37 |
+           021 - IRRF SOBRE FOLHA-CMMA              |      |       235.771,00 |         545.362,99 |          021 - IRRF SOBRE FOLHA-CMMA                |      |       235.771,00 |        541.145,61 |
+           043 - IRRF-Pessoa Física/Jurídica        |      |           390,54 |             749,76 |          043 - IRRF-Pessoa Física/Jurídica          |      |           390,54 |            749,76 |
+                                                                                     GOVERNO MUNICIPAL DE MONTE ALEGRE
+                                                                                            BALANÇO FINANCEIRO
+ EXERCÍCIO 2026                                                                               EM : 30/06/2026                                                                                  PÁGINA: 0002
+ Camara Municipal de Monte Alegre                                                                                                                                                          Valores em Reais
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      OUTRAS CONSIGNAÇÕES                           |     |        259.770,91 |         358.375,19 |       OUTRAS CONSIGNAÇÕES                           |    |        259.770,91 |         358.375,19 |
+           071 - CONSIGNAÇÕES BANPARA - CMMA        |     |        227.993,27 |                0,00 |          071 - CONSIGNAÇÕES BANPARA - CMMA         |    |        227.993,27 |               0,00 |
+           052 - CONSIGNAÇÃO BB - CMMA              |     |         31.777,64 |         358.375,19 |           052 - CONSIGNAÇÃO BB - CMMA               |    |         31.777,64 |         358.375,19 |
+      DEPÓSITOS DE TERCEIROS                        |     |         13.712,35 |          63.335,85 |       DEPÓSITOS DE TERCEIROS                        |    |              0,00 |          63.306,95 |
+           008 - REND APLIC CTA CARTÃO 40119-6      |     |              0,16 |                0,36 |          008 - REND APLIC CTA CARTÃO 40119-6       |    |              0,00 |               0,36 |
+           011 - REND APLIC CTA 015788-0            |     |         13.712,19 |          63.335,49 |           011 - REND APLIC CTA 015788-0             |    |              0,00 |          63.306,59 |
+  Outros recebimentos extraorçamentários            |     |            796,97 |                0,00 | Outros pagamentos extraorçamentários               |    |        140.294,30 |               0,00 |
+      VALORES EM TRÂNSITO REALIZÁVEIS A CURTO PRAZO |     |              0,00 |         126.533,46 |       VALORES EM TRÂNSITO REALIZÁVEIS A CURTO PRAZO |    |        134.891,94 |         130.879,52 |
+           024 - ADIANTAMENTO 13º CONSTITUCIONAL-CM |     |              0,00 |         122.181,62 |           024 - ADIANTAMENTO 13º CONSTITUCIONAL-CMM |    |        134.891,94 |         126.527,68 |
+           017 - PAGAMENTO A REGULARIZAR            |     |              0,00 |            4.351,84 |          017 - PAGAMENTO A REGULARIZAR             |    |              0,00 |           4.351,84 |
+      CRÉDITOS A RECEBER POR REEMBOLSO DE SALÁRIO F |     |            796,97 |            2.561,00 |      CRÉDITOS A RECEBER POR REEMBOLSO DE SALÁRIO F |    |          5.402,36 |           2.561,00 |
+           025 - SAL FAMILIA-CMMA                   |     |            796,97 |            2.561,00 |          025 - SAL FAMILIA-CMMA                    |    |          5.402,36 |           2.561,00 |
+Saldo do exercício anterior (V)                     |     |         65.032,28 |                0,00 |Saldo para o exercício seguinte (XI)                |    |        157.730,56 |               0,00 |
+  Caixa e equivalentes de caixa (exceto RPPS)       |     |         65.032,28 |                0,00 | Caixa e Equivalentes de caixa (exceto RPPS)        |    |        157.730,56 |               0,00 |
+      BANCOS CONTA MOVIMENTO - DEMAIS CONTAS        |     |         65.032,28 |                3,29 |      BANCOS CONTA MOVIMENTO - DEMAIS CONTAS        |    |        157.730,56 |          65.032,28 |
+           104 - BB...15.788-0 (BB/ CAMARA)         |     |         65.028,63 |                0,00 |          104 - BB...15.788-0 (BB/ CAMARA)          |    |        157.726,75 |          65.028,63 |
+           373 - BB...40.119-6 (CTA CARTÃO PAGTO) |       |              3,65 |                3,29 |          373 - BB...40.119-6 (CTA CARTÃO PAGTO)    |    |              3,81 |               3,65 |
+  Caixa e equivalentes de caixa RPPS                |     |              0,00 |                0,00 | Caixa e Equivalentes de caixa RPPS                 |    |              0,00 |               0,00 |
+  Depósito restituíveis e valores vinculados        |     |              0,00 |                0,00 | Depósito restituíveis e valores vinculados         |    |              0,00 |               0,00 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL (VI) = (I + II + III + IV + V)                |     |      4.617.749,72 |                0,00 |TOTAL (XII) = (VII + VIII + IX + X + XI)            |    |      4.617.749,72 |               0,00 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ FONTE: SISTEMA: Aspec Informática - UNIDADE RESPONSÁVEL: Prefeitura Municipal de Monte Alegre - DATA DA EMISSÃO:30/07/2026 - HORA DA EMISSÃO:13:47:54
+ *As notas explicativas da Administração são parte integrante das demonstrações contábeis.
+                                                                                                             MARCELO       Assinado de forma
+                                                                  MADSON          Assinado de forma
+                                                                                                             JONATHAN DA digital por MARCELO
+                                                                  FRANCISCO DA digital por MADSON            SILVA
+                                                                                                                           JONATHAN DA
+                                                                                  FRANCISCO DA                             SILVA
+                                                                  CRUZ            CRUZ                       CORREA:770868 CORREA:770868482
+                                                                  PEREIRA:7960951 PEREIRA:796095112          48204         04
+                                                                  1287            87
+                                                             --------------------------------------
+                                                              -------------------------------------   --------------------------------------
+                                                                                                      -------------------------------------
+                                                                MADSON FRANCISCO DA CRUZ PEREIRA         MARCELO JONATHAN DA SILVA CORREA
+                                                                 PRESIDENTE DA CÂMARA MUNICIPAL                      CONTADOR
+
